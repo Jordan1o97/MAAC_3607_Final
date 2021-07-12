@@ -9,4 +9,6 @@ If you are working on this repo through the command line, you need lfs installed
 Follow this tutorial to download and install it.
 https://git-lfs.github.com/
 
+Go to your local repo, run `git lfs install` and `git track *.blend` in the parent directory.
+
 ** If you are uploading files through the website, you do not need to worry about any of this **
