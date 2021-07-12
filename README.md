@@ -2,7 +2,7 @@
 
 # Interacting through the command line
 
-You need Github's Large File System (lfs) to work with this repo. It allows us to upload blend files which are normally too large.
+You need Github's Large File Storage (lfs) to work with this repo. It allows us to upload blend files which are normally too large.
 
 Follow this tutorial to download and install it.
 https://git-lfs.github.com/
