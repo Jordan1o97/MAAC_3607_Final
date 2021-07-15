@@ -9,7 +9,7 @@ If you are working on this repo through the command line, you need lfs installed
 Follow this tutorial to download and install it.
 https://git-lfs.github.com/
 
-Go to your local repo, run `$ git lfs install` and `$ git track *.blend` in the parent directory.
+Go to your local repo, run `$ git lfs install` and `$ git lfs track *.blend` in the parent directory.
 
 ** If you are uploading files through the website, you do not need to worry about any of this **
 
@@ -24,3 +24,5 @@ The room folder is for all the files/models associated with the main spaceship (
 The space folder is for all the files/models associated with the scene in space.
 
 The misc_props folder is for everything else. All the random props we make (broom, bucket of water, etc.) go here.
+
+The final_scene folder is for the completed project and where the scene manager will work.
