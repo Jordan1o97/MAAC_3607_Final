@@ -1,6 +1,8 @@
 # MAAC_3607_Final
 
-# Upload your blend files to the buffer folder and @Brennan in the discord
+# Uploading Blend Files 
+
+Upload your blend files to the buffer folder and @Brennan in the discord
 
 He will add large file support to them and put them in the right place at the same time.
 
