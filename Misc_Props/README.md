@@ -12,7 +12,7 @@ Third: Smooth version of the second model.
 Fourth: All the pieces are joined together into one shape.
 
 # Pipes
-![Joined Pipes](pipes_together.png)
+![Joined Pipes](pipes_together.PNG)
 
 These are modular pipe pieces that can be put together to create decorations. Pipes are stored in the `pipes` subdirectory.
 
