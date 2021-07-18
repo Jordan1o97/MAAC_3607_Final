@@ -17,6 +17,6 @@ Fourth: All the pieces are joined together into one shape.
 These are modular pipe pieces that can be put together to create decorations. Pipes are stored in the `pipes` subdirectory.
 
 # Crate
-![Crate](Crate.png)
+![Crate](Crate.PNG)
 
 A stackable crate to decorate the room with. We'll stack a bunch of them along the left corner of the room to fill up that space.
