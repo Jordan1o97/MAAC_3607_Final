@@ -1,5 +1,11 @@
 # MAAC_3607_Final
 
+# Uploading Blend Files 
+
+Upload your blend files to the buffer folder and @Brennan in the discord
+
+He will add large file support to them and put them in the right place at the same time.
+
 # Interacting through the command line
 
 You need Github's Large File Storage (lfs) to work with this repo. It allows us to upload blend files which are normally too large.
