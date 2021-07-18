@@ -3,7 +3,7 @@
 This directory is for the files associated with the scene in space, seen through the window
 
 # UFO
-![UFO](UFO.png)
+![UFO](UFO.PNG)
 
 This UFO is the ship that the humans are fighting. It will be big and there will only be one of them in the scene.
 
